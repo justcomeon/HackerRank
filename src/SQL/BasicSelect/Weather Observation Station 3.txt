@@ -1,0 +1,6 @@
+https://www.hackerrank.com/challenges/weather-observation-station-3/submissions/database/40193766
+
+/*
+Enter your query here.
+*/
+select DISTINCT CITY FROM STATION s where mod(s.ID,2) = 0

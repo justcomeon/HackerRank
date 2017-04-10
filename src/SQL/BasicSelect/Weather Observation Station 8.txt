@@ -1,0 +1,6 @@
+https://www.hackerrank.com/challenges/weather-observation-station-8/submissions/database/42038440
+
+/*
+Enter your query here.
+*/
+SELECT DISTINCT(CITY) from STATION WHERE CITY REGEXP '^[aoeiu].*[aoeiu]$'

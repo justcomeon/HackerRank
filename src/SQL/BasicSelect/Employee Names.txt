@@ -1,0 +1,6 @@
+https://www.hackerrank.com/challenges/name-of-employees/submissions/database/42039008
+
+/*
+Enter your query here.
+*/
+SELECT NAME FROM EMPLOYEE ORDER BY NAME
